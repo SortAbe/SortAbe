@@ -2,7 +2,7 @@
 
 Hello, my name is Abe. I go by "Abe".:wink:
 
-I love all things programming(Java,Python,C,Bash) and pseudo programming(SQL,HTML,CSS,JSON).:heart_eyes:
+I love all things programming(Java,Python,C,Bash) and pseudo programming(SQL,HTML,CSS,RegEx).:heart_eyes:
 
 But above all I am an advance data wrangler. I pride myself in being able to pick signal from 
 noise regardless of how much noise there is.:sunglasses:
